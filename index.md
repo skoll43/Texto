@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
   <link rel="icon" type="image/png" href="icon.png">
@@ -21,5 +21,5 @@
    <p></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTY5NzMzNywtMTg1MTI5ODU0XX0=
+eyJoaXN0b3J5IjpbLTE1NTQyNDQ0NDUsLTE4NTEyOTg1NF19
 -->
