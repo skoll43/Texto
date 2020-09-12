@@ -3,7 +3,7 @@
  <head>
   <link rel="icon" type="image/png" href="icon.png">
  </head>
- <body>
+
   <h1 style="text-align:center; background-color:DodgerBlue;">Un sitio <sub>web</sub> </h1>
   <div>
    <p> Ese es un parrafo en la <mark>pagina web</mark> html</p>
@@ -19,8 +19,7 @@
   </div>
   <div>
    <p></p>
- </body>
-</html>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEyOTg1NF19
+eyJoaXN0b3J5IjpbLTkxOTY5NzMzNywtMTg1MTI5ODU0XX0=
 -->
