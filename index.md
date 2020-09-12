@@ -12,7 +12,7 @@
    <h2>Algo con un etiqueta HD</h2>
   </div>
   <div>
-   <p>Un parrafo con un link (<a href="https://skoll43.github.io/texto/">Website<a/a>)</p>
+   <p>Un parrafo con un link (<a href="https://skoll43.github.io/texto/">Website</a>)</p>
   </div>
   <div>
    <p>Ootro parrafo en un  div </p>
@@ -21,3 +21,6 @@
    <p></p>
  </body>
 </html>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NTEyOTg1NF19
+-->
