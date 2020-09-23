@@ -15,15 +15,15 @@
    <p>Un parrafo con un link (<a href="https://skoll43.github.io/texto/">Website</a>)</p>
   </div>
 
-|Ootro parrafo en un  div|asdadads|
-|------------------------|--------|
-|muy util                |ok      |
+|otro parrafo en un  div|asdadads|
+|-----------------------|--------|
+|muy util               |ok      |
 
 
    
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ0MzkzNzcsLTE4MzQ0MzkzNzcsLT
-E4NTEyOTg1NF19
+eyJoaXN0b3J5IjpbMTMwNTgyMzAyNSwtMTgzNDQzOTM3NywtMT
+gzNDQzOTM3NywtMTg1MTI5ODU0XX0=
 -->
