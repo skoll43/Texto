@@ -1,7 +1,6 @@
 
-<html>
  <head>
-  <link rel="icon" type="image/png" href="icon.png">
+  <link rel="icon" type="image/png" href="https://github.com/skoll43/texto/blob/master/icon.png">
  </head>
 
   <h1 style="text-align:center; background-color:DodgerBlue;">Un sitio <sub>web</sub> </h1>
