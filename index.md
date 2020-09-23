@@ -1,9 +1,10 @@
 
  <head>
-  <link rel="icon" type="image/png" href="https://github.com/skoll43/texto/blob/master/icon.png">
+ 
+ <link rel="icon" type="image/png" href="https://github.com/skoll43/texto/blob/master/icon.png">
  </head>
- <html>
-  </head>
+ </html>
+  
 
   <h1 style="text-align:center; background-color:DodgerBlue;">Un sitio <sub>web</sub> </h1>
   <div>
@@ -25,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyNjgzMjcsMTMwNTgyMzAyNSwtMT
-gzNDQzOTM3NywtMTgzNDQzOTM3NywtMTg1MTI5ODU0XX0=
+eyJoaXN0b3J5IjpbMTk4NTU3NDA3MSwxMzA1ODIzMDI1LC0xOD
+M0NDM5Mzc3LC0xODM0NDM5Mzc3LC0xODUxMjk4NTRdfQ==
 -->
