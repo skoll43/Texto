@@ -3,8 +3,7 @@
  <link rel="icon" type="image/png" href="icon.png">
  </head>
 
-  
-
+![enter image description here](https://github.com/skoll43/texto/blob/master/icon.png?raw=true)
   <h1 style="text-align:center; background-color:DodgerBlue;">Un sitio <sub>web</sub> </h1>
   <div>
    <p> Ese es un parrafo en la <mark>pagina web</mark> html</p>
@@ -28,7 +27,8 @@
 eyJwcm9wZXJ0aWVzIjoiZmVhdHVyZWRJbWFnZTogJ2h0dHBzOi
 8vZ2l0aHViLmNvbS9za29sbDQzL3RleHRvL2Jsb2IvbWFzdGVy
 L2ljb24ucG5nP3Jhdz10cnVlJ1xuZXh0ZW5zaW9uczpcbiAgcH
-Jlc2V0OiBjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTIxMDkz
-MzQzMTEsLTY4NjI5MTAyOCwxMzA1ODIzMDI1LC0xODM0NDM5Mz
-c3LC0xODM0NDM5Mzc3LC0xODUxMjk4NTRdfQ==
+Jlc2V0OiBjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMjE0MTYx
+OTQ2MSwtMjEwOTMzNDMxMSwtNjg2MjkxMDI4LDEzMDU4MjMwMj
+UsLTE4MzQ0MzkzNzcsLTE4MzQ0MzkzNzcsLTE4NTEyOTg1NF19
+
 -->
