@@ -1,8 +1,8 @@
 
  <head>
- <link rel="icon" type="image/png" href="/icon.png">
+ <link rel="icon" type="image/png" href="icon.png">
  </head>
- </html>
+
   
 
   <h1 style="text-align:center; background-color:DodgerBlue;">Un sitio <sub>web</sub> </h1>
@@ -25,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDE5NTI2OSwxMzA1ODIzMDI1LC0xOD
+eyJoaXN0b3J5IjpbLTY4NjI5MTAyOCwxMzA1ODIzMDI1LC0xOD
 M0NDM5Mzc3LC0xODM0NDM5Mzc3LC0xODUxMjk4NTRdfQ==
 -->
