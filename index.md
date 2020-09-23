@@ -1,7 +1,6 @@
 
  <head>
- 
- <link rel="icon" type="image/png" href="https://github.com/skoll43/texto/blob/master/icon.png?raw=true">
+ <link rel="icon" type="image/png" href="/icon.png">
  </head>
  </html>
   
@@ -26,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODUwNTA1MSwxMzA1ODIzMDI1LC0xOD
+eyJoaXN0b3J5IjpbMTEzNDE5NTI2OSwxMzA1ODIzMDI1LC0xOD
 M0NDM5Mzc3LC0xODM0NDM5Mzc3LC0xODUxMjk4NTRdfQ==
 -->
